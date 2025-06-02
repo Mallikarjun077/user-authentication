@@ -45,8 +45,9 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",
-    "http://localhost:5173",  
+    # "http://localhost:3000",
+    # "http://localhost:5173",  
+    "https://coruscating-biscochitos-240604.netlify.app"
 ]
 
 
