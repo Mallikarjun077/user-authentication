@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-@%tlks=wh06g(rpg*tb+f8e57abv)@8emf^c19fwf_d9pwa_2#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['user-authentication-tq4n.onrender.com']
+ALLOWED_HOSTS = ['*']
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 
